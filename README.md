@@ -17,9 +17,9 @@ To run the application locally, follow these steps:
    git clone https://github.com/Prashanthsai525/Chat4Fun-App.git
 2. Install dependencies
    ```cd Chat4Fun-App
-   ```npm install
+   npm install
 3. Start the application
-   ```npm run dev
+   npm run dev
 
 ## Contributing
 We welcome contributions! If you'd like to contribute, please follow our contribution guidelines.
